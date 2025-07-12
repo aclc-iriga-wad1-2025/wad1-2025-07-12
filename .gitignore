@@ -1,0 +1,4 @@
+.idea
+.vscode
+contact-submissions/*
+!contact-submissions/index.php
